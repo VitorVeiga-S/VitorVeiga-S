@@ -1,35 +1,41 @@
-# Olá, eu sou o Vitor Veiga! 👋
-
-### 🚀 Desenvolvedor em Construção | Tech Enthusiast
-
-Atualmente, estou mergulhado no mundo da tecnologia cursando o **Técnico em Desenvolvimento de Sistemas no SENAI**. Sou apaixonado por resolver problemas através do código e estou constantemente aprendendo novas ferramentas para construir soluções eficientes e intuitivas.
+# [Vitor Veiga]
+### Software Development Student & UI/UX Enthusiast
 
 ---
 
-### 🛠 No que estou trabalhando:
-- 🎓 Estudando lógica de programação, banco de dados e arquitetura de sistemas no **SENAI**.
-- 💻 Desenvolvendo projetos práticos para consolidar conhecimentos em Front-end e Back-end.
-- ✍️ Aprimorando minhas habilidades em versionamento com Git e metodologias ágeis.
+## 01. O Perfil
+Atualmente, estou mergulhado no curso técnico de **Desenvolvimento de Sistemas pelo SENAI**. Meu diferencial reside na intersecção entre a lógica estruturada do código e a sensibilidade do **Design UX/UI**. Acredito que um software só está completo quando a eficiência técnica encontra uma interface intuitiva.
 
-### 🧪 Tecnologias e Ferramentas:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+* **Localização:** Brasil 🇧🇷
+* **Foco Atual:** Arquitetura de sistemas e prototipagem de alta fidelidade.
+* **Filosofia:** "Design não é apenas como parece, mas como funciona."
 
 ---
 
-### 📈 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorVeiga-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVeiga-S&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+## 02. Stack & Ferramentas
+Minha caixa de ferramentas é dividida entre o pensar e o construir:
+
+| Design (Visual) | Development (Estrutura) |
+| :--- | :--- |
+| Figma / Adobe XD | HTML5 / CSS3 / JavaScript |
+| Design Systems | Lógica de Programação |
+| Prototipagem Interativa | Git & GitHub |
+| User Research | SQL / Banco de Dados |
 
 ---
 
-### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+## 03. O que estou construindo?
+Não busco apenas "fazer código", mas resolver problemas reais. Meus repositórios refletem essa busca por:
+* **Clean Code:** Código legível e sustentável.
+* **Acessibilidade:** Interfaces pensadas para todos os usuários.
+* **Performance:** Sistemas leves e rápidos.
 
-> "O aprendizado é contínuo e a curiosidade é o meu combustível." 🚀
+---
+
+## 04. Conecte-se
+Se você valoriza projetos que unem estética e funcionalidade, vamos conversar.
+
+[LinkedIn](seu-link-aqui) / [E-mail](seu-email-aqui) / [Behance/Portfolio](seu-link-aqui)
+
+---
+> "Simplicidade é o último grau da sofisticação." — Leonardo da Vinci
