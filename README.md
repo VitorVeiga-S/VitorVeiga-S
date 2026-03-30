@@ -1,27 +1,25 @@
 # Vitor Veiga
-### Software Development Student & UI/UX Enthusiast
+
+Estudante de **Desenvolvimento de Sistemas** no SENAI, e base teórica em **Design UX/UI**. Busco sempre construir aplicações que unam uma estrutura lógica sólida a interfaces funcionais e intuitivas.
 
 ---
 
-## 01. O Perfil
-Atualmente, estou cursando o curso técnico de **Desenvolvimento de Sistemas pelo SENAI**. Procuro sempre fazer a junção da lógica estruturada do código, e a boa impressão e facilidade do **Design UX/UI**. Para mim, um software só está completo quando a eficiência técnica encontra uma interface intuitiva.
-
-* **Localização:** Brasil 🇧🇷
-* **Foco Atual:** Aprender arquitetura de sistemas e prototipagem de alta fidelidade, aplicando a lógica de um bom design.
-
----
-
-## 03. O que estou buscando?
-Não busco apenas "fazer código", mas resolver problemas reais. Meus repositórios refletem essa busca por:
-* **Clean Code:** Código legível e sustentável.
-* **Acessibilidade:** Interfaces pensadas para todos os usuários.
-* **Performance:** Sistemas leves e rápidos.
+### 🎓 Formação e Foco Atual
+* **Desenvolvimento de Sistemas (Técnico):** Focado em aprender lógica de programação, algoritmos e as bases da arquitetura de software.
+* **Design UX/UI:** Conhecimento em prototipagem, fluxo de usuário e princípios de usabilidade.
+* **Objetivo:** Transição de carreira para o desenvolvimento Full Stack com olhar voltado para a experiência do usuário.
 
 ---
 
-## 04. Conecte-se
-Se você valoriza projetos que unem estética e funcionalidade, vamos conversar.
+### 🛠️ Tecnologias e Ferramentas
+* **Design:** Figma.
+* **Desenvolvimento:** Atualmente explorando lógica de programação e fundamentos de TI.
 
-[LinkedIn](seu-link-aqui) / [E-mail](seu-email-aqui) / [Behance/Portfolio](seu-link-aqui)
+---
 
+### ✉️ Contato
+Estou aberto a trocas de conhecimento e oportunidades de aprendizado.
 
+* [**LinkedIn**](seu-link-aqui)
+* [**Behance/Portfólio**](seu-link-aqui)
+* **E-mail:** seu-email@exemplo.com
