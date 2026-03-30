@@ -17,6 +17,12 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI, e base teórica em **Desi
 
 ---
 
+### 📁 Projetos
+
+* (Ainda não há projetos concluidos)
+  
+---
+
 ### ✉️ Contato
 Estou aberto a trocas de conhecimento e oportunidades de aprendizado.
 
