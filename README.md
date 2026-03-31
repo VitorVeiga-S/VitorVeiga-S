@@ -9,6 +9,16 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI, e base teórica em **Desi
 * **Design UX/UI:** Conhecimento em prototipagem, fluxo de usuário e princípios de usabilidade.
 * **Objetivo:** Transição de carreira para o desenvolvimento Full Stack com olhar voltado para a experiência do usuário.
 
+### No que estou trabalhando:
+
+### ARI: Redes com IoT
+
+### LER: Levantamento de Requisitos
+
+### LOPAL: Lógica de Programação e Algoritmos
+
+### SOP: Sistemas Operacionais
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
