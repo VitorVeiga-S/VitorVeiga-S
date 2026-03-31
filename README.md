@@ -36,6 +36,4 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI, e base teórica em **Desi
 ### ✉️ Contato
 Estou aberto a trocas de conhecimento e oportunidades de aprendizado.
 
-* [**LinkedIn**](seu-link-aqui)
-* [**Behance/Portfólio**](seu-link-aqui)
-* **E-mail:** seu-email@exemplo.com
+* **E-mail:** vitorandradeveiga.silva@gmail.com
