@@ -25,11 +25,7 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI, e base teórica em **Desi
 * **Design:** Figma.
 * **Desenvolvimento:** Atualmente explorando lógica de programação e fundamentos de TI.
 
----
 
-### 📁 Projetos
-
-* (Ainda não há projetos concluidos)
   
 ---
 
